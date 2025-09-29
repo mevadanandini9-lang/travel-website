@@ -107,7 +107,7 @@ body {
 /* About */
 .about-hero {
   background: url('images/about.jpg') center/cover no-repeat;
-  color: white;
+  color: black;
   text-align: center;
   padding: 100px 20px;
 }
@@ -188,4 +188,5 @@ footer {
     flex-direction: column;
     align-items: center;
   }
+
 }
